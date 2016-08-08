@@ -1,0 +1,16 @@
+name: Robert J. Richards
+description: Economics Student, Website Builder, Tech Guru, Tinkerer, Do Stuff-erer..
+meta_description: "Economics Student, Website Builder, Tech Guru, Tinkerer, Do Stuff-erer.."
+
+markdown: kramdown
+highlighter: Rouge
+logo: false
+paginate: 6
+baseurl: /
+domain_name: 'http://robertrichards.me'
+google_analytics: 'UA-82195434-1'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'http://robertrichards.me'
+author:         'Robert J. Richards'

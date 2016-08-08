@@ -1,0 +1,98 @@
+---
+layout: default
+title: Home
+cover: false
+about: 'about.html'
+---
+<link rel="stylesheet" href="/assets/css/font-awesome.css">
+<title> {{ site.name }} - {{ site.description }} </title>
+
+<header class="main-header">
+    <nav class="main-nav overlay clearfix">
+            {% if page.logo %}
+                <a class="blog-logo" href="{{ site.baseurl }}">
+                    <img src="{{ page.logo }}" alt="Blog Logo" />
+                </a>
+            {% endif %}
+        <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>
+    </nav>
+    <div class="vertical">
+        <div class="main-header-content inner">
+<!--BEGIN              Social Icons And Links To Social Accounts-->
+            <a href="https://twitter.com/RJYRichards"> <i class="hey fa fa-twitter" aria-hidden="true"></i></a>
+            <a href="http://www.outlierweb.com"> <i class="hey fa fa-home" aria-hidden="true"></i></a>
+            <a href="mailto:hello@robertrichards.me"> <i class="hey fa fa-envelope" aria-hidden="true"></i></a>
+            <a href="https://jm.linkedin.com/in/robert903"> <i class="hey fa fa-linkedin" aria-hidden="true"></i></a>
+            <a href="https://github.com/robert903"> <i class="hey fa fa-github" aria-hidden="true"></i></a>
+            <a href="https://dribbble.com/robert903"> <i class="hey fa fa-dribbble" aria-hidden="true"></i></a>
+<!--END              Social Icons And Links To Social Accounts-->
+
+            <a class="tit" href="{{ site.baseurl}}"><h1 class="page-title">{{ site.name }}</h1></a>
+            <h2 class="page-description">
+                {% if site.description %} {{ site.description }}. {% endif %}
+                {% if page.about %} <a class="hey" href='{{ site.baseurl }}resume.html'> My Resume </a> {% endif %}
+                <br>
+                <br>
+                <h2 class="page-description">Drown In My Mind</h2>
+            </h2>
+        </div>
+    </div>
+    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
+    
+</header>
+
+
+<main id="content" class="content" role="main">
+
+
+    <div class="extra-pagination inner">
+        {% include pagination.html %}
+    </div>
+
+    {% for post in paginator.posts %}
+
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        </header>
+        <section class="post-excerpt">
+            {{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            {% if site.author %}
+                <img class="author-thumb" src="/assets/images/profile.jpg" alt="Author's profile picture" nopin="nopin" />
+                {{ site.author }}
+            {% endif %}
+<!--
+            {% if post.categories.size > 0 %} 
+                {{ post.categories | array_to_sentence_string | prepend: 'on ' }} 
+            {% endif %}
+-->
+            <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
+                {{ post.date | date_to_string }}
+            </time> 
+        </footer>
+    </article>
+
+    <!-- Capser below -->
+<!--     <article class="{{post_class}}">
+    <header class="post-header">
+        <h2 class="post-title"><a href="{{url}}">{{{title}}}</a></h2>
+    </header>
+    <section class="post-excerpt">
+        <p>{{excerpt words="26"}} <a class="read-more" href="{{url}}">&raquo;</a></p>
+    </section>
+    <footer class="post-meta">
+        {{#if author.image}}<img class="author-thumb" src="{{author.image}}" alt="Author image" nopin="nopin" />{{/if}}
+        {{author}}
+        {{tags prefix=" on "}}
+        <time class="post-date" datetime="{{date format='YYYY-MM-DD'}}">{{date format="DD MMMM YYYY"}}</time>
+    </footer>
+    </article> -->
+    <!--  -->
+
+    {% endfor %}
+
+    {% include pagination.html %}
+
+</main>
