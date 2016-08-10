@@ -9,7 +9,7 @@ permalink: /hardest-thing-went-life-get-past/
 dsq_thread_id:
   - 4792363846
 categories:
-  - Uncategorized
+  - Lessons
 ---
 <p class="qtext_para">
   I was repeatedly raped by a neighbor when I was 7 years old. I didn&#8217;t want my mother to find out, because she was a single mother working 3 jobs to support me and my brother and she cried enough as it was. We lived in a trailer that had holes in the floor so that sometimes raccoons and opossums would climb through. I was scared of them. The carpet was infested with fleas. I usually had flea bites all over my body. I never felt clean. We got clothes from Goodwill but they were usually old, faded, and stained. My mother did the best she could but we were all alone in the world. We lived in a rural area that was unforgiving of those who deviated from &#8220;the norm.&#8221; My mother tried to baptize me when I was a baby, only to be turned away by the local preacher because I was &#8220;a bastard.&#8221; We were not welcome in their churches, which were an important part of rural life there. I didn&#8217;t have friends at school. I was &#8220;weird&#8221; &#8220;dirty&#8221; &#8220;ugly&#8221; &#8220;too quiet&#8221; etc. Even most of the teachers looked at me and my brother in disgust. We were &#8220;the XXX family.&#8221;

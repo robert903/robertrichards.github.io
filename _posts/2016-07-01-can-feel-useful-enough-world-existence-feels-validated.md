@@ -7,7 +7,7 @@ layout: post
 guid: http://robertrichards.me/?p=132
 permalink: /can-feel-useful-enough-world-existence-feels-validated/
 categories:
-  - Uncategorized
+  - Lessons
 ---
 It was Nietzsche that said our desire to overcome ourselves is the only constant in life.
 

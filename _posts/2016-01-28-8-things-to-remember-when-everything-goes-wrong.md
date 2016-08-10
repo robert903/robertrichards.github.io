@@ -7,7 +7,7 @@ layout: post
 guid: http://robertrichards.me/?p=84
 permalink: /8-things-to-remember-when-everything-goes-wrong/
 categories:
-  - Uncategorized
+  - Lessons
 ---
 1. Pain is part of growing.
 

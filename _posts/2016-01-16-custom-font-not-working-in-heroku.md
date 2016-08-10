@@ -7,7 +7,7 @@ layout: post
 guid: http://robertrichards.me/?p=73
 permalink: /custom-font-not-working-in-heroku/
 categories:
-  - Uncategorized
+  - Programming (Rails)
 ---
 This could be down to several issues; most notably, I would recommend you&#8217;re not using dynamic asset paths:
 

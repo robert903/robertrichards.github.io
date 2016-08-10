@@ -7,7 +7,7 @@ layout: post
 guid: http://robertrichards.me/?p=48
 permalink: /the-times-are-a-changin/
 categories:
-  - Uncategorized
+  - Random Interests
 ---
 Excerpt from Bob Dylan&#8217;s 1964 song of the same name.
 

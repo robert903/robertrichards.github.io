@@ -9,7 +9,7 @@ permalink: /much-python-one-learn-learning-django/
 dsq_thread_id:
   - 4707550894
 categories:
-  - Python
+  - Programming (python)
 ---
 N<span class="inline_editor_value"><span class="rendered_qtext">ot much really.. you can continue learning Python in parallel to learning Django.</span></span>
 

@@ -7,7 +7,7 @@ layout: post
 guid: http://robertrichards.me/will-the-united-states-ever-collapse/
 permalink: /will-the-united-states-ever-collapse/
 categories:
-  - Uncategorized
+  - Random Interests
 ---
 I met a traveller from an antique land Who said: 
 

@@ -7,7 +7,7 @@ layout: post
 guid: http://robertrichards.me/?p=39
 permalink: /pain-is-inevitable/
 categories:
-  - Uncategorized
+  - Lessons
 ---
 > _A husband is tossing and turning in bed, unable to sleep and this does not let his wife fall asleep._
 > 

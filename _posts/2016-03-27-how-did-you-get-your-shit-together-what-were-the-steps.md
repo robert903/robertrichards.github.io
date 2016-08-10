@@ -7,7 +7,7 @@ layout: post
 guid: http://robertrichards.me/?p=101
 permalink: /how-did-you-get-your-shit-together-what-were-the-steps/
 categories:
-  - Uncategorized
+  - Lessons
 ---
 I was 15. My mother had just kicked and beat me while I was curled up in a little ball on the floor wearing nothing but a bath towel. She said, &#8220;as far as I&#8217;m concerned, you do not exist.&#8221;
 

@@ -7,7 +7,7 @@ layout: post
 guid: http://robertrichards.me/?p=86
 permalink: /moments-life-one-couldnt-help-think-fked/
 categories:
-  - Uncategorized
+  - Lessons
 ---
 <div class="qtext_para">
   August 14, 1981. Two weeks previously I had told my girlfriend we needed to take a break from our relationship. I told that I didn&#8217;t love her and that there was no future with her. She cried bitterly. She had given me her all. And she left my house and went home. I didn&#8217;t know it then but my entire world was about to fall apart.

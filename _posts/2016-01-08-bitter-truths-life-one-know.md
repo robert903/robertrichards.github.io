@@ -7,7 +7,7 @@ layout: post
 guid: http://robertrichards.me/?p=55
 permalink: /bitter-truths-life-one-know/
 categories:
-  - Uncategorized
+  - Lessons
 ---
 > I would mention a small story&#8230;
 > 

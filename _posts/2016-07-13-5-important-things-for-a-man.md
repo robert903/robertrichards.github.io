@@ -9,7 +9,7 @@ permalink: /5-important-things-for-a-man/
 dsq_thread_id:
   - 
 categories:
-  - Uncategorized
+  - Lessons
 ---
 I&#8217;m 48. Here&#8217;s what a man should know.
 

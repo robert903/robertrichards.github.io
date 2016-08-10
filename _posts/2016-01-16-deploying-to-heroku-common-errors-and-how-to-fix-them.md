@@ -7,7 +7,7 @@ layout: post
 guid: http://robertrichards.me/?p=69
 permalink: /deploying-to-heroku-common-errors-and-how-to-fix-them/
 categories:
-  - Uncategorized
+  - Programming (Rails)
 ---
 Mainly for Ubuntu linux but pretty similar to other oses
 

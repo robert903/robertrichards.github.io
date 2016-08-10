@@ -7,7 +7,7 @@ layout: post
 guid: http://robertrichards.me/do-not-go-gentle-into-that-good-night/
 permalink: /do-not-go-gentle-into-that-good-night/
 categories:
-  - Uncategorized
+  - Random Interests
 ---
 Do not go gentle into that good night,
   
