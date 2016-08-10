@@ -602,6 +602,10 @@ margin on the iframe, cause it breaks stuff. */
     margin-right: 8px;
 }
 
+#categories{
+    float: left;
+}
+
 .subscribe-button {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
