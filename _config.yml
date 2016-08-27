@@ -13,6 +13,7 @@ gems:
     - jekyll-paginate
     - jekyll-mentions
     - jekyll-sitemap
+    - jekyll-seo-tag
 
 # Details for the RSS feed generator
 url:            'http://robertrichards.me'
