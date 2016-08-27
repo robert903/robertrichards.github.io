@@ -1,5 +1,6 @@
 ---
 id: 41
+comments: true
 title: Always Remember
 date: 2016-01-03T04:32:11+00:00
 author: Robert J. Richards

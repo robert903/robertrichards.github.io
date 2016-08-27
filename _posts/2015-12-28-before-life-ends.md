@@ -1,4 +1,5 @@
 ---
+comments: true
 id: 17
 title: Before Life Ends
 date: 2015-12-28T20:57:16+00:00

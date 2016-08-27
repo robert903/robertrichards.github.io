@@ -1,4 +1,5 @@
 ---
+comments: true
 id: 59
 title: Add a custom domain to Github Pages site
 date: 2016-08-11

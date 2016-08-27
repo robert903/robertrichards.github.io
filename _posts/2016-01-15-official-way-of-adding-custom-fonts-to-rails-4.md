@@ -1,4 +1,5 @@
 ---
+comments: true
 id: 58
 title: Official way of adding custom fonts to Rails 4
 date: 2016-01-15T05:22:03+00:00
@@ -8,6 +9,7 @@ guid: http://robertrichards.me/?p=58
 permalink: /official-way-of-adding-custom-fonts-to-rails-4/
 categories:
   - Programming (Rails)
+  
 ---
 Firstly to use custom fonts in your app you need to download font files, you can try [Firstly to use custom fonts in your app you need to download font files, you can try](http://www.1001freefonts.com/) or <http://www.piccsy.com/everything-design/> and look for fonts. Few of the most popular font file formats are mainly .otf (Open Type Format) .ttf(True Type Format) .woff(Web Open Font Format)
 

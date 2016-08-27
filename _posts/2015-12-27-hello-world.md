@@ -1,4 +1,5 @@
 ---
+comments: true
 id: 1
 title: Hello world!
 date: 2015-12-27T21:49:03+00:00

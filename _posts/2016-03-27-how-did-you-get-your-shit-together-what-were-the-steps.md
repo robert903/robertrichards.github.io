@@ -1,4 +1,5 @@
 ---
+comments: true
 id: 101
 title: How did you get your shit together? What were the steps?
 date: 2016-03-27T19:56:27+00:00

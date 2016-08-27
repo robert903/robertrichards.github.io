@@ -1,4 +1,5 @@
 ---
+comments: true
 id: 55
 title: What are the bitter truths of life one should know?
 date: 2016-01-08T04:37:10+00:00
@@ -8,6 +9,7 @@ guid: http://robertrichards.me/?p=55
 permalink: /bitter-truths-life-one-know/
 categories:
   - Lessons
+  
 ---
 > I would mention a small story&#8230;
 > 
