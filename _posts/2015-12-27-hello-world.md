@@ -7,6 +7,6 @@ layout: post
 guid: http://robertrichards.me/?p=1
 permalink: /hello-world/
 categories:
-  - Thoughts
+  - self.thoughts
 ---
 Hello World! This is my first post. Kinda need to write down the things I learn, maybe it will be useful at some point.
