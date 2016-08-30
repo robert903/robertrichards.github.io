@@ -1,0 +1,125 @@
+html{
+    font-family: arial,sans-serif;
+    font-size: small;
+}
+
+/*NAVBAR HEADER*/
+#menu{
+	background: url('../images/gsprite.png') no-repeat -139px -45px;
+	width: 16px;
+	height: 16px;
+    position: relative;
+    top: 2px;
+    padding: 0;
+    margin-right: 8px;
+}
+#notification {
+	background: url('../images/gsprite.png') no-repeat -279px -42px;
+	width: 23px;
+	height: 25px;
+    position: relative;
+    top: 6px;
+    padding: 0;
+    margin-right: 8px;
+}
+#user {
+    background-image: url(../images/avatar.png);
+    width: 32px;
+    height: 32px;
+    border-radius: 100px;
+    position: relative;
+    top: 8px;
+    padding: 0;
+    margin-right: 8px;
+}
+
+header{
+    float: right;
+    margin-bottom: -80%;
+}
+/*---------------------------------------------------------------------------*/
+
+/*---MISC---*/
+ul {
+    list-style-type: none;
+}
+
+li{
+    display: inline-block;
+    padding: 8px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+}
+
+a:visited{
+    color: mediumpurple;
+}
+/*---------------------------------------------------------------------------*/
+
+/*---BODY---*/
+
+.logo{
+    max-height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 11%;
+}
+
+#search{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 35px;
+    width: 600px;
+    border: 1px solid lightgray;
+}
+#search:hover{
+    border: 1px solid gray;
+}
+#search:focus{
+    border: 1px solid lightblue;
+    outline-color: lightblue;
+}
+
+#button{
+    margin-top: 20px;
+    height: 40px;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    color: #757575;
+    outline: none;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#button:hover,#button:focus{
+    margin-top: 20px;
+    height: 40px;
+    background-color: #f2f2f2;
+    outline: black;
+    font-size: 13px;
+    font-weight: bold;
+    border: 1px solid #c6c6c6;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    color: #222;
+}
+
+/*---------------------------------------------------------------------------*/
+
+
+/*---FOOTER---*/
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+/*---------------------------------------------------------------------------*/
