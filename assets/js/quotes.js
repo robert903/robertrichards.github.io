@@ -48,6 +48,7 @@ for (i=0;i<tag.length;i++){
   tag[i].setAttribute('data-headline',i)
   typewriter(i)
 }
+
 function typewriter(element){
   var tag = document.querySelector('[data-headline="'+element+'"]')
       word = ~~(Math.random()*glossary.length)
