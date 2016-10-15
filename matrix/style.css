@@ -14,7 +14,7 @@ html{
 
 h1{
     font-family: bld;
-    font-size: 50;
+    font-size: 50px;
     color: darkblue;
 }
 
@@ -23,5 +23,5 @@ h1{
     font-family: brandon;
 }
 .desc{
-    font-size: 25;
+    font-size: 25px;
 }
