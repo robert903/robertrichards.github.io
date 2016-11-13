@@ -1,0 +1,16 @@
+.btn{
+    margin-top: 20px;
+}
+
+#result{
+    color: red;
+    font-size: 200px;
+}
+
+footer {
+    position:absolute;
+    right: 5%;
+    bottom: 0;
+    height: 5%;
+/*    width: 100%;*/
+}

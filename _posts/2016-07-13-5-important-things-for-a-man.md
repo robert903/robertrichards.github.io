@@ -1,4 +1,5 @@
 ---
+comments: true
 id: 135
 title: What are the five most important things for a man to learn in life?
 date: 2016-07-13T17:11:51+00:00

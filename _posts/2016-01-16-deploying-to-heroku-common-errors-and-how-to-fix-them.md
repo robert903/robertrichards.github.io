@@ -1,5 +1,6 @@
 ---
 id: 69
+comments: true
 title: Deploying to Heroku. Common Errors And How To Fix Them
 date: 2016-01-16T21:51:17+00:00
 author: Robert J. Richards
@@ -8,6 +9,7 @@ guid: http://robertrichards.me/?p=69
 permalink: /deploying-to-heroku-common-errors-and-how-to-fix-them/
 categories:
   - Programming (Rails)
+  
 ---
 Mainly for Ubuntu linux but pretty similar to other oses
 

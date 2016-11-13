@@ -1,4 +1,5 @@
 ---
+comments: true
 id: 146
 title: Will The United States Ever Collapse?
 date: 2016-07-20T04:14:43+00:00

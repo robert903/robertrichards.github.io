@@ -5,6 +5,7 @@ date: 2016-01-03T22:31:06+00:00
 author: Robert J. Richards
 layout: post
 guid: http://robertrichards.me/?p=48
+comments: true
 permalink: /the-times-are-a-changin/
 categories:
   - Random Interests

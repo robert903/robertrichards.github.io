@@ -1,0 +1,45 @@
+<DOCTYPE html>
+<html>
+    <head> 
+           <script src="../../projects/euler/js/euler1.js"></script>
+           <link rel="stylesheet" href="../../projects/euler/css/style.css"> 
+           <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+           <title>Project Euler</title>
+    </head>
+    <body>
+        <center>
+        <h1>Project Euler Problem 1</h1>
+        
+        <p>
+          If we list all the natural numbers below 10 that are multiples of 3 or 5,
+          we get 3, 5, 6 and 9. The sum of these multiples is 23.
+        </p>
+        <p>
+          This function will give the sum of all multiples of 3 and 5 for a given limit.
+        </p>
+       
+            <div class="inputdiv">
+                <h1>Enter Limit</h1>
+                <input type="text" id="input" value="1000"/>
+                <br>
+                <button class="btn btn-primary" onclick="multiples(document.getElementById('input').value)">Calculate</button>
+            </div>
+            <div class="resultdiv">
+                <h1>Result</h1>
+                <br>
+                <h2 id="result"></h2>
+            </div>
+        </center> 
+        
+        
+        
+    </body>
+    
+
+    
+    
+    <footer>
+        <a href="http://robertrichards.me">Robert J Richards</a>
+    </footer>
+    
+</html>

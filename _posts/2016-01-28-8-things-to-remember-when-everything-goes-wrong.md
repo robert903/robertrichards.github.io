@@ -1,4 +1,5 @@
 ---
+comments: true
 id: 84
 title: 8 Things to Remember When Everything Goes Wrong
 date: 2016-01-28T14:24:14+00:00
@@ -8,6 +9,7 @@ guid: http://robertrichards.me/?p=84
 permalink: /8-things-to-remember-when-everything-goes-wrong/
 categories:
   - Lessons
+  
 ---
 1. Pain is part of growing.
 

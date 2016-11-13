@@ -1,5 +1,6 @@
 ---
 id: 41
+comments: true
 title: Always Remember
 date: 2016-01-03T04:32:11+00:00
 author: Robert J. Richards
@@ -7,7 +8,7 @@ layout: post
 guid: http://robertrichards.me/?p=41
 permalink: /girlfriend-career-always-remember/
 categories:
-  - Thoughts
+  - self.thoughts
 ---
 Accept the fact that it is never as you want it to be. Acceptance leads to peace. Quicker you believe this, easier will it be to move on.
 

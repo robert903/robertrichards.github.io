@@ -6,11 +6,20 @@ markdown: kramdown
 highlighter: Rouge
 logo: false
 paginate: 6
-baseurl: /
+baseurl: 
 domain_name: 'http://robertrichards.me'
 google_analytics: 'UA-82195434-1'
-gems: [jekyll-paginate]
+gems: 
+    - jekyll-paginate
+    - jekyll-mentions
+    - jekyll-sitemap
+    - jekyll-seo-tag
 
 # Details for the RSS feed generator
 url:            'http://robertrichards.me'
 author:         'Robert J. Richards'
+
+
+
+jekyll-mentions:
+  base_url: https://twitter.com

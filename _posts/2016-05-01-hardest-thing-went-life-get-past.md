@@ -1,4 +1,5 @@
 ---
+comments: true
 id: 121
 title: What was the hardest thing you went through in life and how did you get past that?
 date: 2016-05-01T21:37:26+00:00

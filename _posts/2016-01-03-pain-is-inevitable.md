@@ -5,6 +5,7 @@ date: 2016-01-03T04:25:00+00:00
 author: Robert J. Richards
 layout: post
 guid: http://robertrichards.me/?p=39
+comments: true
 permalink: /pain-is-inevitable/
 categories:
   - Lessons

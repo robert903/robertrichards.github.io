@@ -1,4 +1,5 @@
 ---
+comments: true
 id: 73
 title: Custom font not working in heroku?
 date: 2016-01-16T23:42:04+00:00
@@ -8,6 +9,7 @@ guid: http://robertrichards.me/?p=73
 permalink: /custom-font-not-working-in-heroku/
 categories:
   - Programming (Rails)
+  
 ---
 This could be down to several issues; most notably, I would recommend you&#8217;re not using dynamic asset paths:
 

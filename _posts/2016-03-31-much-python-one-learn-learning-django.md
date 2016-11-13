@@ -1,4 +1,5 @@
 ---
+comments: true
 id: 104
 title: How much Python should one learn before learning Django?
 date: 2016-03-31T05:34:06+00:00

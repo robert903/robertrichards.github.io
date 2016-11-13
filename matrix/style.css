@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'brandon';
+  src: url('Brandon.otf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'bld';
+  src: url('Brandon_bld.otf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+html{
+    
+}
+
+h1{
+    font-family: bld;
+    font-size: 50px;
+    color: darkblue;
+}
+
+.bod{
+    text-align: center;
+    font-family: brandon;
+}
+.desc{
+    font-size: 25px;
+}

@@ -1,4 +1,5 @@
 ---
+comments: true
 id: 86
 title: 'What were moments in life when one couldn&#8217;t help but think, &#8220;I am so f**ked.&#8221;?'
 date: 2016-01-31T20:17:33+00:00
