@@ -1,8 +1,7 @@
 ---
 comments: true
 id: 93
-title: Short Story: The Wise Man and the Little Boy
-date: 2016-11-14
+title: Short Story - The Wise Man and the Little Boy
 author: Robert J. Richards
 layout: post
 guid: http://robertrichards.me/The-Wise-Man-and-the-Little-Boy
@@ -10,9 +9,6 @@ permalink: /The-Wise-Man-and-the-Little-Boy/
 categories:
   - Story Time
 ---
-
-#Short Story: The Wise Man and the Little Boy
-
 A certain shopkeeper sent his son to learn about the secret of happiness form the wisest man in the world. The lad wandered through the desert for forty days, and finally came upon a beautiful castle, high atop a mountain. It was there that the wise man lived.
 
 Rather than finding a saintly man, though, our hero, on entering the main room of the castle, saw hive of activity: tradesmen came and went, people were conversing in the corners, a small orchestra was playing soft music, and there was a table covered with platters of the most delicious food in that part of the world. The wise man conversed with every one, and the boy had to wait for two hours before it was his turn to be given the man’s attention.
