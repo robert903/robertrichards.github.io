@@ -1,11 +1,11 @@
 ---
 comments: true
-id: 51
+id: 93
 title: Short Story: The Wise Man and the Little Boy
 date: 2016-11-14
 author: Robert J. Richards
 layout: post
-guid: http://robertrichards.me/?p=51
+guid: http://robertrichards.me/The-Wise-Man-and-the-Little-Boy
 permalink: /The-Wise-Man-and-the-Little-Boy/
 categories:
   - Story Time
