@@ -6,8 +6,8 @@
     <description>An archive of Chicago Public Media's This American Life hosted by Ira Glass</description>
     <language>en-us</language>
     <copyright>Copyright Chicago Public Media &amp; Ira Glass</copyright>
-     <atom:link href="http://robertrichards.me/tal/feed.rss" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, Nov 19 2016 15:47:00 GMT </lastBuildDate>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feed.thisamericanlife.org/talpodcast" /><feedburner:info uri="talpodcast" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+    <lastBuildDate>Sat, 19 Nov 2016 00:00:00 GMT </lastBuildDate>
 
     <item>
         <title>#482: Lights, Camera, Christmas!</title>
