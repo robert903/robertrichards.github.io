@@ -5,7 +5,8 @@
     <link>http://www.thisamericanlife.org</link>
     <description>An archive of Chicago Public Media's This American Life hosted by Ira Glass</description>
     <language>en-us</language>
-    <copyright>Copyright Chicago Public Media &amp; Ira Glass</copyright>
+    <copyright>Copyright Chicago Public Media &amp; Ira Glass </copyright>
+    <media:copyright>Copyright Chicago Public Media &amp; Ira Glass </media:copyright>
     <media:thumbnail url="http://www.thisamericanlife.org/sites/all/themes/thislife/images/logo-square-1400.jpg"/>
     <media:rating>nonadult</media:rating>
     <itunes:author>Chicago Public Media</itunes:author>
